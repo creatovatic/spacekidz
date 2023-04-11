@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "global": "^4.4.0"
+  },
+  "name": "coming-soon-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vishal",
+  "license": "ISC",
+  "description": "coming soon",
+  "keywords": [
+    "coming",
+    "sooon"
+  ]
+}
